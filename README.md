@@ -13,7 +13,7 @@ Download the .EXE file to play.
 - Battle slimes to gain EXP and level up
 - Explore a mysterious cave
 - Visit the merchant area
-- Enjoy a chill soundtrack
+- Vibe to a chill soundtrack
 
 # Credits
 

@@ -2,7 +2,7 @@
 
 Welcome to SerenitySkies, my first-ever game built from scratch using Java (no game engine).
 
-**Strictly not for profit**
+<h3>Strictly not for profit</h3>
 
 ![serenityskies2](https://github.com/user-attachments/assets/ce32cf13-2f69-4dc6-ad2f-1a85754133c9)
 

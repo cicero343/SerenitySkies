@@ -6,8 +6,6 @@ Welcome to SerenitySkies, my first-ever game built from scratch using Java (no g
 
 ![serenityskies2](https://github.com/user-attachments/assets/ce32cf13-2f69-4dc6-ad2f-1a85754133c9)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HEK-APf2qwc?si=zSBaYwrAwwIybbbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # How to Play
 
 To start the game, download the .EXE file or .JAR from the "Releases" section on the right sidebar and run it.

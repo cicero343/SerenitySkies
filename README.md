@@ -23,4 +23,5 @@ Some open-source assets from OpenGameArt.org and itch.io have been adapted and u
 
 All background music was composed by me.
 
-<a href="https://cicero343.itch.io/serenityskies" target="_blank">
+<a href="https://cicero343.itch.io/serenityskies" target="_blank">https://cicero343.itch.io/serenityskies</a>
+

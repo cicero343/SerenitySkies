@@ -6,7 +6,9 @@ Welcome to SerenitySkies, my first-ever game built from scratch using Java (no g
 
 ![serenityskies2](https://github.com/user-attachments/assets/ce32cf13-2f69-4dc6-ad2f-1a85754133c9)
 
-Download the .EXE file to play.
+# How to Play
+
+To start the game, download the .EXE file or .JAR from the "Releases" section on the right sidebar and run it.
 
 # Features
 

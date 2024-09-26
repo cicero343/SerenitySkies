@@ -4,7 +4,7 @@ Welcome to SerenitySkies, my first-ever game built from scratch using Java (no g
 
 **Strictly not for profit**
 
-![serenityskies1](https://github.com/user-attachments/assets/ac11c212-b8b6-4502-9e62-5175b48679c8)
+![serenityskies2](https://github.com/user-attachments/assets/ce32cf13-2f69-4dc6-ad2f-1a85754133c9)
 
 Download the .EXE file to play.
 
